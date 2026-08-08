@@ -3,6 +3,14 @@
 A full-stack notes application: React (Vite) frontend + Node/Express/MongoDB backend,
 with cookie-based JWT authentication and complete note CRUD.
 
+# Notes App — MERN Stack
+
+A full-stack notes application built with React (Vite), Node.js, Express, and MongoDB, featuring cookie-based JWT authentication and complete note CRUD.
+
+## 🚀 Live Demo
+
+[https://notesappfullproject-1.onrender.com](https://notesappfullproject-1.onrender.com)
+
 ## Final folder structure
 
 ```
